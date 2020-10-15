@@ -1,5 +1,5 @@
-.container section .Alina img{
-    width: 100%;
+.container section .Alina img .members{
+    width: 200px;
     height: 100%;
-    padding: 5px;
+    padding: 15px;
 }
